@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a favourite font 🤭
 
-//P.S. My code is broken but beautiful
+
 
