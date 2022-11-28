@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 <!-- ![](https://komarev.com/ghpvc/?username=DevTheDeveloperguy&style=plastic&label=Profile+views) <br> -->
 
-![snake eating my contribution graph](https://github.com/DevTheDeveloperGuy/DevTheDeveloperGuy/blob/output/github-contribution-grid-snake.gif)
+![snake eating my contribution graph](https://github.com/DevTheDeveloperGuy/DevTheDeveloperGuy/blob/output/github-contribution-grid-snake.svg)
