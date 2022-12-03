@@ -30,9 +30,6 @@
 <img align="left" alt="Linux" width="35px" height="35px" style="padding:5x;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="35px" height="35px" style="padding:5x;" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="Bash" width="35px" height="35px" style="padding:5x;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Linux" width="35px" height="35px" style="padding:5x;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="35px" height="35px" style="padding:5x;" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-<img align="left" alt="Bash" width="35px" height="35px" style="padding:5x;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
        
 <br><br><br>
