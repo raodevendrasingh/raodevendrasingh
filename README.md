@@ -8,8 +8,7 @@
 - 💬 Ask me anything about technology
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Internet made me an Engineer, college didn't!
-
-<br><br>
+<br>
 
 ## 🛠 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
@@ -28,15 +27,14 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />
-<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px; padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
        
 <br><br><br>
 
 ## 🔗&nbsp;Connect with me
 <a href="https://linkedin.com/in/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://twitter.com/raoxdevendra" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://polywork.com/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://developers.google.com/profile/u/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/69987103?s=200&v=4" width=40px height=40px title="source:" border-radius=50% /></a>
 
-<br><hr><br>
-
+<br><hr>
 ![snake eating my contribution graph](https://github.com/DevTheDeveloperGuy/DevTheDeveloperGuy/blob/output/github-contribution-grid-snake.svg)
 
 
