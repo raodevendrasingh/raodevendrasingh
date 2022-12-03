@@ -1,6 +1,9 @@
 <h1 align="center">Howdy, Folks! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
 <br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
 ## 👨🏻‍💻 About me
 - 🌱 I’m currently learning web3 development
@@ -25,9 +28,7 @@
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="Bash" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="VSCode" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-<img align="left" alt="VSCode" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />
-<img align="left" alt="PyCharm" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
+
        
 <br><br><br>
 
