@@ -1,28 +1,17 @@
-<h1 align="center">Howdy, folks! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
+<h1 align="center">Howdy, Folks! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
+<br>
 
-<!--
-**DevTheDeveloperGuy/DevTheDeveloperGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-
-Here are some ideas to get you started:
--->
-
-## 👨🏻‍💻 &nbsp;About me
+## 👨🏻‍💻 About me
 - 🌱 I’m currently learning web3 development
-- 👯 I’m looking to collaborate on interesting projects
+- 👯 I’m looking to collaborate on interesting web projects
 - 💬 Ask me anything about technology
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Internet made me an Engineer, college didn't!
 
-<br> 
+<br><br>
 
-### 🛠 Languages and Tools
-
+## 🛠 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -40,11 +29,32 @@ Here are some ideas to get you started:
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
+       
+<br><br><br>
+
+## 🔗&nbsp;Connect with me
+<a href="https://linkedin.com/in/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://twitter.com/raoxdevendra" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://polywork.com/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://developers.google.com/profile/u/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/69987103?s=200&v=4" width=40px height=40px title="source:" border-radius=50% /></a>
+
+<br><hr><br>
+
+![snake eating my contribution graph](https://github.com/DevTheDeveloperGuy/DevTheDeveloperGuy/blob/output/github-contribution-grid-snake.svg)
 
 
-          
-<br />
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
+<!--
+**DevTheDeveloperGuy/DevTheDeveloperGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working on ...
+
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: ...
+
+Here are some ideas to get you started:
+-->
+
+
+<!-- ![](https://komarev.com/ghpvc/?username=DevTheDeveloperguy&style=plastic&label=Profile+views) <br> -->
 
 <!--## 🛠 &nbsp;Tech Stack
 
@@ -61,12 +71,4 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)-->
-
-<br/>
-
-## 🔗&nbsp;Connect with me
-<a href="https://linkedin.com/in/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://twitter.com/raoxdevendra" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://polywork.com/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://developers.google.com/profile/u/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/69987103?s=200&v=4" width=40px height=40px title="source:" border-radius=50% /></a>
-
-<!-- ![](https://komarev.com/ghpvc/?username=DevTheDeveloperguy&style=plastic&label=Profile+views) <br> -->
-
-![snake eating my contribution graph](https://github.com/DevTheDeveloperGuy/DevTheDeveloperGuy/blob/output/github-contribution-grid-snake.svg)
+ 
