@@ -8,10 +8,9 @@
 <br>
 
 ## 👨🏻‍💻 About me
-- 🌱 I’m currently learning web3 development
+- 🌱 I’m currently learning backend development
 - 👯 I’m looking to collaborate on interesting web projects
 - 💬 Ask me anything about technology
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Internet made me an Engineer, college didn't!
 <br>
 
@@ -22,6 +21,7 @@
 <img align="left" alt="HTML" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="35px" height="35px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
 <!-- <img align="left" alt="TypeScript" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
 <img align="left" alt="React" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <!-- <img align="left" alt="NodeJS" width="35px" height="35px" style="padding:5x;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
@@ -30,6 +30,8 @@
 <img align="left" alt="Linux" width="35px" height="35px" style="padding:5x;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <!-- <img align="left" alt="GitHub" width="35px" height="35px" style="padding:5x;" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" /> -->
 <img align="left" alt="Bash" width="35px" height="35px" style="padding:5x;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="MySQL" width="35px" height="35px" style="padding:5x;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="35px" height="35px" style="padding:5x;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain.svg" />
 
        
 <br><br><br>
