@@ -1,11 +1,8 @@
 <h1 align="center">Howdy, Folks! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
-<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<br>
 
 ## 👨🏻‍💻 About me
 - 🌱 I’m currently learning backend development
@@ -16,7 +13,7 @@
 
 ## 🛠 Languages and Tools
 <img align="left" alt="C++" width="35px" height="35px" style="padding:5px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<img align="left" alt="Java" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<!-- <img align="left" alt="Java" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
 <img align="left" alt="Python" width="35px" height="35px" style="padding:5px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="HTML" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -37,9 +34,11 @@
 <br><br><br>
 
 ## 🔗 Connect with me
-<a href="https://linkedin.com/in/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a>    &nbsp;    <a href="https://twitter.com/raoxdevendra" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> 
-<br><br>
+<a href="https://linkedin.com/in/raodevendrasingh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/pCETvi7.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; <a href="mailto:raoxdevendrasingh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/fH1AFYG.png" width=40px height=40px title="source: imgur.com" /></a>
+
+<br>
 <!--
+<a href="https://twitter.com/raoxdevendra" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> 
 <hr>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=DevTheDeveloperGuy&show_icons=true&count_private=true&theme=react" width="48%" align="right">  
