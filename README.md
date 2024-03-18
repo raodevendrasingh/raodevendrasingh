@@ -37,9 +37,9 @@
 <br>
 <br>
 
-## 🚀 My GitHub Stats
+<!-- ## 🚀 My GitHub Stats
 [![](https://github-readme-streak-stats.herokuapp.com?user=raodevendrasingh&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+-->
 
 ## 🔗 Connect with me
 <a target="_WORD" href="https://linkedin.com/in/raodevendrasingh" rel="noopener noreferrer"><img src="https://i.imgur.com/pCETvi7.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; <a href="mailto:raoxdevendrasingh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/fH1AFYG.png" width=40px height=40px title="source: imgur.com" /></a>
