@@ -3,6 +3,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br>
+<br>
+<br>
 
 ## 👨🏻‍💻 About me
 - 🌱 I’m currently fine tuning my development skils
@@ -10,6 +13,7 @@
 - 💬 Ask me anything about technology
 - ⚡ Fun fact: Internet made me an Engineer, college didn't!
 - 🔰 日本語を勉強しています
+<br>
 <br>
 
 ## 🛠 Languages and Tools
@@ -31,7 +35,6 @@
 <img align="left" alt="Linux" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <!-- <img align="left" alt="GitHub" width="35px" height="35px" style="padding:5x;" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" /> -->
-
 <br>
 <br>
 <br>
@@ -39,7 +42,9 @@
 
 ## 🚀 My GitHub Stats
 [![](https://github-readme-streak-stats.herokuapp.com?user=raodevendrasingh&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<br>
+<br>
+<br>
 
 ## 🔗 Connect with me
 <a target="_WORD" href="https://linkedin.com/in/raodevendrasingh" rel="noopener noreferrer"><img src="https://i.imgur.com/pCETvi7.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; <a href="mailto:raoxdevendrasingh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/fH1AFYG.png" width=40px height=40px title="source: imgur.com" /></a>
