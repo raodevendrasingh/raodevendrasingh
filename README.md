@@ -6,7 +6,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 <br>
 <br>
-<br>
 
 ## 👨🏻‍💻 About me
 - 🌱 I’m currently fine tuning my development skils
