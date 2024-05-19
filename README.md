@@ -1,40 +1,60 @@
 <h1 align="center">Howdy, Folks! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-<br>
-<br>
 
 ## 👨🏻‍💻 About me
-- 🌱 I’m currently fine tuning my development skils
-- 👯 I’m looking to collaborate on interesting web projects
-- 💬 Ask me anything about technology
-- ⚡ Fun fact: Internet made me an Engineer, college didn't!
-- 🔰 日本語を勉強しています
+- 🌱 Currently honing my development skils
+- 👯 Seeking collaboration on intriguing web projects
+- 💬 Happy to discuss anything tech-related
+- 📚 Passionate about continuous learning and self-improvement
+- ⚡ Fun fact: The internet made me an engineer, college didn't!
+- 🚀 Always on the lookout for the latest in tech and innovation
+- 🔰 日本語を勉強しています (Learning Japanese)
+- 🏏 Avid cricket and F1 racing fan
 <br>
 <br>
 
-## 🛠 Languages and Tools
-<img align="left" alt="C++" width="35px" height="35px" style="padding:5px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<!-- <img align="left" alt="Java" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
-<img align="left" alt="Python" width="35px" height="35px" style="padding:5px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<!-- <img align="left" alt="HTML" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> -->
-<!-- <img align="left" alt="CSS" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />-->
-<img align="left" alt="JavaScript" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+## 🛠 Skills
+<img align="left" alt="C++" width="35px" height="35px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
+
+<img align="left" alt="Python" width="35px" height="35px" style="padding:5px;" 
+src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
+
+<img align="left" alt="JavaScript" width="35px" height="35px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="TypeScript" width="35px" height="35px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" /> 
+
 <img align="left" alt="Tailwind CSS" width="35px" height="35px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
-<!-- <img align="left" alt="TypeScript" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
-<img align="left" alt="React" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="50px" height="50px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img align="left" alt="MongoDB" width="40px" height="40px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-plain-wordmark.svg" />
-<img align="left" alt="Django" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="PostgreSQL" width="35px" height="35px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain.svg" />
-<img align="left" alt="MySQL" width="50px" height="50px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Git" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="35px" height="35px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<!-- <img align="left" alt="GitHub" width="35px" height="35px" style="padding:5x;" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" /> -->
+
+<img align="left" alt="React" width="35px" height="35px" style="padding:5px;" 
+src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" />
+
+<img align="left" alt="NodeJS" width="35px" height="35px" style="padding:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
+
+<img align="left" alt="MongoDB" width="40px" height="40px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" />
+
+<img align="left" alt="NextJS" width="35px" height="35px" style="padding:5px;" 
+src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" />
+
+<img align="left" alt="Django" width="35px" height="35px" style="padding:5px;" 
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django.svg" />
+
+<img align="left" alt="PostgreSQL" width="35px" height="35px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain.svg" />
+
+<img align="left" alt="MySQL" width="35px" height="35px" style="padding:5px;" 
+src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
+
+<img align="left" alt="Git" width="35px" height="35px" style="padding:5px;" 
+src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
+
+<img align="left" alt="Linux" width="35px" height="35px" style="padding:5px;" 
+src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Bash" width="35px" height="35px" style="padding:5px;" 
+src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
+
+
 <br>
 <br>
 <br>
@@ -53,6 +73,7 @@
 
 
 
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raodevendrasingh&size_weight=0&count_weight=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raodevendrasingh&layout=compact&langs_count=10) -->
 <!--
@@ -62,5 +83,9 @@
 
 
 <hr>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br>
+<br>
 -->
 
