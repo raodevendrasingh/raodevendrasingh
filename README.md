@@ -5,12 +5,10 @@
 
 ## 👨🏻‍💻 About me
 - 🌱 Currently honing my development skils
-- 👯 Seeking collaboration on intriguing web projects
+- 👯 Interested in collaboration on intriguing web projects
 - 💬 Happy to discuss anything tech-related
-- 📚 Passionate about continuous learning and self-improvement
 - ⚡ Fun fact: The internet made me an engineer, college didn't!
-- 🚀 Always on the lookout for the latest in tech and innovation
-- 🔰 日本語を勉強しています (Learning Japanese)
+- 🔰 Currently Learning Japanese
 - 🏏 Avid cricket and F1 racing fan
 <br>
 <br>
@@ -32,7 +30,7 @@ src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original
 
 <img align="left" alt="NodeJS" width="35px" height="35px" style="padding:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
 
-<img align="left" alt="MongoDB" width="40px" height="40px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MongoDB" width="35px" height="35px" style="padding:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" />
 
 <img align="left" alt="NextJS" width="35px" height="35px" style="padding:5px;" 
 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" />
@@ -74,9 +72,9 @@ src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.s
 
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raodevendrasingh&size_weight=0&count_weight=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raodevendrasingh&layout=compact&langs_count=10) -->
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raodevendrasingh&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raodevendrasingh&size_weight=0&count_weight=1)
 [![Stats](https://github-readme-stats.vercel.app/api?username=raodevendra)](https://github.com/raodevendrasingh/github-readme-stats)
 <a href="https://twitter.com/raoxdevendra" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> 
 <hr>
