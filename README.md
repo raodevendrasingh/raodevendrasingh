@@ -6,5 +6,3 @@
 - 👯 Interested in collaborating on exciting web tech projects
 - 🏏 Avid fan of cricket and F1 racing
 - 📫 Reach me at raoxdevendrasingh@gmail.com
-<br>
-<br>
