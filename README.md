@@ -5,4 +5,4 @@
 - 🔭 Currently exploring innovative web technologies to enhance developer experience
 - 👯 Interested in collaborating on exciting web tech projects
 - 🏏 Avid fan of cricket and F1 racing
-- 📫 Reach me at raoxdevendrasingh@gmail.com
+- 📫 Reach me at hello@raodevendrasingh.com
